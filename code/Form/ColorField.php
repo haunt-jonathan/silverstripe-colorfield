@@ -8,6 +8,8 @@
  * @package SS_ColorField
  * @subpackage Form
  */
+namespace Colymba\ColorField;
+
 use SilverStripe\Forms\FormField;
 
  class ColorField extends FormField
